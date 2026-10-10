@@ -1,0 +1,16 @@
+name: campusflow
+version: 1.0.0+1
+publish_to: 'none'
+
+description: CampusFlow - Professional student management system.
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: '>=3.22.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
